@@ -92,3 +92,23 @@ npx shadcn@latest init
 ```
 npx shadcn@latest add button
 ```
+
+## Setting Up Google Auth
+
+```
+npm install @react-oauth/google@latest
+```
+
+```
+npm install react-router-dom
+```
+
+Adding `toast`
+
+```
+npx shadcn@latest add sonner
+```
+
+```
+npm install axios
+```
